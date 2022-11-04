@@ -1,0 +1,9 @@
+.heroImg {
+    max-width: 100%;
+}
+
+.heroHeadline {
+    position: relative;
+    bottom: 25rem;
+    color: white;
+}
